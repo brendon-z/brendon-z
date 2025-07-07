@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Brendon, a 5th year CS/Physics student at UNSW. If you don't find me programming, I'll probably be scratching my head at quantum physics and shooting photos in my spare time 😊.
+I'm Brendon, a 5th year CS/Physics student at UNSW. My interests lie mainly in backend development, but I've dabbled in mobile dev work as well as scientific data analysis through my professional experience and coursework. Outside of software, I love hiking and photography, and I've climbed a couple of mountains in my spare time. I also have a facination with all things mechanical; cars, planes, watches, you name it. If I hadn't become a software engineer, I'd probably be a mechanical one!
+
+### What I've been up to
+* I interned at Xero, focusing on mobile development on their Android and iOS apps with Kotlin + Android Studio and Swift + Xcode.
+* I've worked as a student ambassador for UNSW Engineering, where I engage prospective students with the experiences and opportunities available at UNSW. I've helped facilitate student outreach events, such as O-week welcomes, high school workshops and also served as a photographer for events.
+* I've also provided student drop-in support for students studying physics, mathematics and computing courses as an academic mentor with UNSW. In this role I also helped the faculty with a study in the use of AI in university studies, particularly with regards to assessment design.
+* I was Marketing director for [UNSW SecSoc](https://unswsecurity.com/), and during my time there, we first launched [SCONES](https://scones.secso.cc/), the first student-run cybersec conference of its kind in Australia.
 
 <!--
 **brendon-z/brendon-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
