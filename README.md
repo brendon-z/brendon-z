@@ -7,7 +7,7 @@ I'm Brendon, a 5th year CS/Physics student at UNSW. My interests lie mainly in b
 * I've worked as a student ambassador for UNSW Engineering, where I engage prospective students with the experiences and opportunities available at UNSW. I've helped facilitate student outreach events, such as O-week welcomes, high school workshops and also served as a photographer for events.
 * I've also provided student drop-in support for students studying physics, mathematics and computing courses as an academic mentor with UNSW. In this role I also helped the faculty with a study in the use of AI in university studies, particularly with regards to assessment design.
 * I was Marketing director for [UNSW SecSoc](https://unswsecurity.com/), and during my time there, we first launched [SCONES](https://scones.secso.cc/), the first student-run cybersec conference of its kind in Australia.
-* Other than my work, in my spare time I created a Discord bot called (discord-unfuzzle)[https://github.com/brendon-z/discord-unfuzzle] to teach myself JavaScript and API integration. It has a nifty feature where you can retrieve the class calendars for users who study at UNSW, and it lets me and my friends keep track of where and when people might be on campus.
+* Other than my work, in my spare time I created a Discord bot called [discord-unfuzzle](https://github.com/brendon-z/discord-unfuzzle) to teach myself JavaScript and API integration. It has a nifty feature where you can retrieve the class calendars for users who study at UNSW, and it lets me and my friends keep track of where and when people might be on campus.
 
 <!--
 **brendon-z/brendon-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
