@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brendon, a 5th year CS/Physics student at UNSW. My interests lie mainly in backend development, but I've dabbled in mobile dev work as well as scientific data analysis through my professional experience and coursework. Outside of software, I love hiking and photography, and I've climbed a couple of mountains in my spare time. I also have a facination with all things mechanical; cars, planes, watches, you name it. If I hadn't become a software engineer, I'd probably be a mechanical one!
+I'm Brendon, a software engineering graduate and UNSW CS and Physics alumnus. My interests lie mainly in backend development, but I've worked in mobile development as well as scientific data analysis through my professional experience and coursework. Outside of software, I love hiking and photography, and I've climbed a couple of mountains in my spare time. I also have a facination with all things mechanical; cars, planes, watches, you name it. If I hadn't become a software engineer, I'd probably be a mechanical one!
 
 ### What I've been up to 🔨
 * I interned at [Xero](https://www.xero.com/au/), focusing on mobile development on their Android and iOS apps with Kotlin + Android Studio and Swift + Xcode.
